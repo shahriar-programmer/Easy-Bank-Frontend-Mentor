@@ -1,0 +1,20 @@
+// Primary Color Palate
+
+$pr_dark_blue: hsl(233, 26%, 24%);
+$pr_lime_green: hsl(136, 65%, 51%);
+$pr_bright_cyan: hsl(192, 70%, 51%);
+
+// Secondary Color Palate
+
+$ne_grayish_blue: hsl(233, 8%, 62%);
+$ne_light_grayish_blue: hsl(220, 16%, 96%);
+$ne_very_light_gray: hsl(0, 0%, 98%);
+$ne_white: hsl(0, 0%, 100%);
+
+// Gradient
+
+$gradient_color: linear-gradient(
+  90deg,
+  rgba(49, 211, 92, 1) 0%,
+  rgba(43, 183, 218, 1) 100%
+);
